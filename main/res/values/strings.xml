@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MasterDetailFirebaseApp</string>
+    <string name="title_smartphone_detail">Detalle de smartphones</string>
+    <string name="infoApp">Aplicación desarrollada por Luis Fco Ortiz asignatura de (Diseño interfaces)</string>
+</resources>
